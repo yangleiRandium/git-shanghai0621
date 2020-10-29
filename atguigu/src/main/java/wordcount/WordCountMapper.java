@@ -21,5 +21,7 @@ public class WordCountMapper extends Mapper<LongWritable, Text,Text, IntWritable
         }
 
         System.out.println("ooooooo");
+
+        System.out.println("aaaaaaaaaaaa");
     }
 }
